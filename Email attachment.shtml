@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Attachment Example</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+    <h1>Attachment Example</h1>
+    <p>Please find the .shtml attachment below:</p>
+    <!-- Replace 'base64_encoded_content' with the actual base64-encoded content of your .shtml file -->
+    <a href="data:text/html;base64,base64_encoded_content" download="attachment.shtml">Download .shtml</a>
+    <p>If you have any questions or need assistance, feel free to contact us.</p>
+    <p>Best regards,<br>
+        Your Team
+    </p>
+</body>
+</html>
